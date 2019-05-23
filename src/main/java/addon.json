@@ -1,8 +1,8 @@
 {
   "uuid": "%uuid%",
   "name": "Anti Clear Chat",
-  "mainClass": "de.cosmo.GrieferGamesHelperAddon",
-  "description": "Community Help Addon for GrieferGames.net",
+  "mainClass": "de.cosmo.AntiClearChatAddon",
+  "description": "Removes empty lines from Chat",
   "version": 1,
   "author": "Cosmo",
   "category": 2,
