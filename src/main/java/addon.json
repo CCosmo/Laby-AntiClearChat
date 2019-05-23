@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "Anti Clear Chat",
+  "mainClass": "de.cosmo.GrieferGamesHelperAddon",
+  "description": "Community Help Addon for GrieferGames.net",
+  "version": 1,
+  "author": "Cosmo",
+  "category": 2,
+  "icon": "http://mc.cldev.de/AntiClearChat.png"
+}
