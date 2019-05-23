@@ -1,4 +1,1 @@
--------------------------------------------
-Source installation information for modders
--------------------------------------------
-Just install the Addon and the Addon will hide all empty Text Lines
+Just install the Addon in LabyMod and all empty textlines in the Chat will not been shown.
